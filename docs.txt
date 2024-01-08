@@ -25,3 +25,12 @@ list of project connected to this directory -> git remote -v
 git add .
 git commit -m "message_info"
 git push origin master
+
+create branch
+----------------
+git branch feature
+git checkout feature
+git add .
+git commit -m "message_info"
+git push origin feature
+
