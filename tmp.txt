@@ -1,0 +1,14 @@
+git init
+ls -a
+touch tmp.txt
+cat tmp.txt
+git status
+git add tmp.txt
+git status
+git commit -m "message_info"
+git status
+git restore --staged tmp.txt
+git log
+
+remove commit
+---------------
