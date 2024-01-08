@@ -17,3 +17,8 @@ git reset <commit_id>
 git stash
 git stash pop
 git stash clear
+
+connect with repo
+-----------------------
+git remote add origin https://github.com/KEERTHANA-E/DemoProject-1
+list of project connected to this directory -> git remote -v
