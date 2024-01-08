@@ -34,3 +34,9 @@ git add .
 git commit -m "message_info"
 git push origin feature
 
+changing to main
+-----------------
+git branch main
+git checkout main -> change branch
+git pull origin main --allow-unrelated-histories
+git push origin main
