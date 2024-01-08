@@ -12,3 +12,7 @@ git log
 
 remove commit
 ---------------
+git reset <commit_id>
+
+git stash
+git stash pop
